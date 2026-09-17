@@ -14,7 +14,11 @@ Dit dossier is opgebouwd uit verschillende deeldocumenten. Klik op de onderstaan
 *   ### ⚖️ [2. De Juridische Bewijslast](./LEGAL_EVIDENCE.md)
     Het officiële zwartboek met de exacte Europese wetsnummers, verordeningen, artikelen en data (waaronder de *AI Act achterdeur*, *Prüm II*, *Interoperabiliteit/CIR*, *Chatcontrol* en de *Digitale Euro*).
 
----
+### 👥 [3. De Politieke Architecten](./ACTORS.md)
+    De zwarte lijst met de specifieke namen en mandaten van de verantwoordelijke Eurocommissarissen och ongekozen functionarissen (waaronder Von der Leyen, Brunner en Virkkunen) die deze wetten hebben ondertekend.
+
+*   ### 🛡️ [4. Gids voor Tegenmaatregelen](./COUNTERMEASURES.md)
+    De praktische handleiding voor burgers met bruikbare opensource-tools, privacy-besturingssystemen en hardware-tips (zoals Faraday-bags) om tracking door SignalTrace direct fysiek en digitaal te saboteren.---
 
 ## 🛑 WAAROM DIT DOSSIER OP GITHUB STAAT
 Traditionele kanalen en gecentraliseerde AI-systemen zijn geprogrammeerd om overheidspropaganda en pr-rookgordijnen te sussen. Dit dossier is hier geplaatst om de rauwe, onverbloemde waarheid permanent toegankelijk te houden voor het publiek, beschermd tegen gecentraliseerde censuur. 
